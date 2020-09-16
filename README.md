@@ -1,5 +1,7 @@
 # docs
 
+[Letter to SLoP Contributors](https://github.com/sinix-dev/sinix/wiki/Letter-to-SLoP-Contributors)
+
 ## Setup
 
 Install dependencies:
