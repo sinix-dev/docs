@@ -2,8 +2,8 @@
   "title": "Sinix",
   "url": "https://sinix.dev/docs",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "./logo-light.png",
+    "dark": "./logo-dark.png"
   },
   "github": "sinix-dev/docs",
   "twitter": "@sinix_dev"
